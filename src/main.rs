@@ -1,3 +1,4 @@
+#![allow(mixed_script_confusables)]
 extern crate aoc2021;
 extern crate aoc_runner_derive;
 extern crate aoc_runner;
